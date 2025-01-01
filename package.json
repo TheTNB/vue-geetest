@@ -24,9 +24,9 @@
     "vue": "^3.4.0"
   },
   "devDependencies": {
-    "typescript": "^5.4.5",
-    "@vitejs/plugin-vue": "^5.0.4",
-    "vite": "^5.2.11",
+    "@vitejs/plugin-vue": "^5.2.1",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.6",
     "vite-plugin-dts": "^3.9.1"
   },
   "keywords": [
